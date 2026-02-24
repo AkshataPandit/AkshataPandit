@@ -6,7 +6,7 @@
 
 ## 💻 Tech Stack
 
-- **Languages:** C, Python  
+- **Languages:** Java, Python  
 - **Web Technologies:** HTML, CSS, JavaScript, Bootstrap  
 - **Core Concepts:** Data Structures & Algorithms (DSA)
 
